@@ -1,6 +1,14 @@
-👋 Hi, I’m @jam5000
+# Experienced .NET Full-Stack Web Application Developer
 
-<!---
-jam5000/jam5000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Technical Experience:
+- HTML5, CSS, JavaScript, jQuery, Bootstrap
+- C#, ASP.NET, Web API, MVC5
+- SQL Server, T-SQL, Entity Framework
+- Lean/Agile
+
+Interests:
+- Bitcoin, Stacks
+- Smart Contracts, Clarity
+- Functional programming
+- Elixir, Erlang
+- TDD

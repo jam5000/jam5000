@@ -6,6 +6,9 @@ Technical Experience:
 - SQL Server, T-SQL, Entity Framework
 - Lean/Agile
 
+Current Self-Improvement:
+- ASP.NET Core
+
 Interests:
 - Bitcoin, Stacks
 - Smart Contracts, Clarity
